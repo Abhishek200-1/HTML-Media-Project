@@ -50,6 +50,17 @@ Use **Visual Studio Code (VS Code)** with the **Live Server** extension to see r
 
 ---
 
+🔗 Links
+Navigation links let users jump directly to the relevant sections for a seamless experience.
+External video links bring in tutorials and content from YouTube.
+
+---
+
+👏 Special Thanks
+Thanks for visiting and using my webpage template! This project is designed to give a structured layout for multimedia content with a smooth navigation experience.
+
+---
+
 ## 📜 **License**
 
 This project is part of a comprehensive web development course. It’s intended for **educational purposes**, but feel free to use it to practice and expand your web development skills.
